@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Downloaded datasets and generated training artifacts
+data/
+outputs/
+checkpoints/
+
+# Local model weights
+*.pt
+*.pth
+
+# Locally downloaded installers
+tools/installers/*.exe

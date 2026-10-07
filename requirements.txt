@@ -1,0 +1,11 @@
+# The CUDA-enabled torch/torchvision build is platform-specific and is already
+# installed in this project's virtual environment.
+datasets==5.1.0
+matplotlib==3.11.2
+numpy==2.5.2
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
+torch==2.14.1
+torchvision==0.29.1
+tqdm==4.70.1
